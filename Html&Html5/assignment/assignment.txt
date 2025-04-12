@@ -1,0 +1,152 @@
+<--->Theroty assignments:
+
+1].explain the structure of an HTML document and the purpose of DOCTYPE:
+
+ANS: structure Of HTML:
+
+1. <!DOCTYPE html>:
+declare the document type and the verison of HTML.this tag specifies the language you will write on page.
+
+2.<html>:
+this is tag signals that form here on we are going to write html code.
+
+3.<head>:
+this is where all the metadata for the page goes-stuff mostly meant for search engines and other computer programs.
+
+4.<body>:
+this is where the content of the page goes. and that including text,images and media.
+
+HEAD section:
+
+<title>:
+this is tag use to title of the any document and page and display the title bar in search engine.
+
+<meta>:
+provide the metadata about the document such as title and the decription.
+
+<link>:
+provide the stylesheets or other link source.
+
+            structure of HTML document:
+
+            <!DOCTYPE>
+            <html>
+            <head>
+                <title></title>
+                <meta>
+                <link rel="stylesheet">
+                <style></style>
+                <script></script>
+                <nonscript></nonscript>
+                </head>
+                <body>
+                <h1>about us</h1>
+                <p>hey i am hensi kakaniya</p>
+                </body>
+                </head>
+                </html>
+
+
+    * purpose of DOCTYPE:
+
+          the DOCTYPE decription in HTML serves serval purpose.
+          - specifies the document type and the verison of the HTML being used.
+
+          and that helps to browsers and othe tools to vaildate the document specifies HTML verison.
+
+          the standard DOCTYPE for the HTML5 document.that for provide the many function to diffrent type of the HTML.
+
+
+
+
+ 2]. list and explain at least five common HTML tags used in website design:
+
+       1). <a> tag:
+          HTML links are hyperlinks.
+          you can click on a link and jump to another document.
+          when you move the mouse over a link,the mouse arrow will run into a little hand.
+
+           syntax:
+             <a href="url" target="/_parent/_top"download="filename">
+             </a>
+
+             href is known as most important of the <a> element is the href attribute and indicates the link's destination.
+
+       2). image tag:
+           the IMG tag specifies an imageto be displayin am HTML document.an image can be a plain image that simply appears the page.
+           an image can be embedded in < a href> tag so that the user can click it to open a URL.
+            
+            <img src="image.jpg" alt="an example image">
+
+            and that attributes is SRC,ALT,ALIGN,BORDER,HEIGHT,WIDTH etc.
+
+       3).<h1>-<h6>tag / heading tag:
+           the <h1>-<h6> tag  used to define heading in an HTML document.
+           while displaying any heading,browser and leval 6 heading are the least promintent heading.
+
+           and that displayed in a border,larger font than normal body text.
+
+           syntax:
+
+              <h1>heading 1</h1>
+              <h2>heading 2</h2>
+              <h3>heading 3</h3>
+              <h4>heading 4</h4>
+              <h5>heading 5</h5>
+              <h6>heading 6</h6>
+
+         4). list tag:
+             HTML offers web authors three ways for specifying list of information. all lists must contain one or more list elements
+             <ul>-unordered list
+             <ol>-ordered list
+             <dl>-description list                             
+
+         5). paragraph tag:
+              the<p> tag offers a way to structure your text into diffrent paragraph.
+              each paragraph of text should go in between an opening<p> and closing</p> tag.
+
+              syntax:
+              <p align="left"/"center"/"right">-----</p>  
+
+
+              an other HTMLtag is:
+
+              <b>tag
+              <u>tag
+              <i>tag
+              <big>and<small>tag
+              <sub>tag
+              <sup>tag
+              <HR> tag
+              <audio> tag
+              <table> tag
+              <form> tag
+              <div> tag
+
+
+
+
+ Q-3]-Describe the difference between block-level and inline elements in HTML.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                          BLOCK-LEVEL                                           |                                 INLINE
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------                                                                          |
+                                                                                |
+   1. These are the elements,which structure main part of webpage, by dividing  |    1. Inline elements are those elements, which differntiate the part of a give text and    
+      a page into coherent blocks.                                              |      provide it a particular function.
+                                                                                |
+                                                                                |
+   2. A block level element always start with new line and takes the full width |    2. These elements does not stsrt with new and take width as per requirement.
+      of web page,from left to right.                                           |                              
+                                                                                |
+   3. These elements can contain block-level as well as inline elements         |    3. The inline elements are mostly used with other elements.                                                              
+                                                                                |
+   4.Ex.<div>                                                                   |    4. Ex.<a>
+        <h1><h6>                                                                |          <lable>
+        <hr>                                                                    |           <b>
+                                                                                |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------=
+
+
+
+               

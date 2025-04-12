@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen'  href="path/to/font-awesome/css/font-awesome.min.css">
+    
+    <script src='main.js'></script>
+</head>
+<body bgcolor="lightblue">
+    <div style="width: 80%; height: auto; float: left;">
+    <div style="width: 45%; height: auto; float: left;">
+        <h1>get in touch with us</h1>
+        <p><b>our address <span class ="fa fa-map marker"></span></b> 101, Aditya Complex, Jalaram 2 Street Number 2, above Sbi Bank Nr Indira Circle, Rajkot, Gujarat, 360005 
+<p><b>open :<span class="fa-calender"></span></b>7.30am to 7.00pm</p>
+
+<p><b>open:<span class="fa fa-facebook"></span></b></p>
+<p><b>open:<span class="fa fa-snapchat"></span></b></p>
+<p><b>open:<span class="fa fa-instagram"></span></b></p>
+<p><iframe src="https://maps.app.goo.gl/9k8bMHvmaUno7EEK9" width="100%" height="250" style="border: 0;" allowfullscreen="" 
+referrerpolicy="no-referrer-when-gowngrade"></iframe></p>
+
+
+    
+</body>
+</html>
